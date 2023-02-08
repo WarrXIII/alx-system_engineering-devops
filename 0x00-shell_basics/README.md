@@ -11,3 +11,4 @@ Task 9 deletes the directory my_first_directory that is in the /tmp directory
 Task 10 changes the working directory to the previous one
 Task 11 lists a bunch of stuff
 Task 12 prints the type of file
+Task 13 creates a symbolic link
