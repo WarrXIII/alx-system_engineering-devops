@@ -9,3 +9,4 @@ Task 7 moves the file betty from /tmp/ to /tmp/my_first_directory
 Task 8 deletes the file betty
 Task 9 deletes the directory my_first_directory that is in the /tmp directory
 Task 10 changes the working directory to the previous one
+Task 11 lists a bunch of stuff
