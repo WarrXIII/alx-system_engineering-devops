@@ -14,3 +14,4 @@ Task 12 prints the type of file
 Task 13 creates a symbolic link
 Task 14 copies only html files
 Task 15 copies all uppercase files
+Task 16 deletes stuff
